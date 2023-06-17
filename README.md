@@ -18,6 +18,6 @@ Olá! Sou um desenvolvedor Full Stack que adora construir aplicações web moder
 
 ### Encontre-me Online:
 
-- [LinkedIn](linkedin.com/devmhsilveira)
+- [LinkedIn](linkedin.com/in/mhsilveira)
 
 Fique à vontade para entrar em contato para colaborações ou projetos interessantes. Adoro discutir ideias e ajudar a criar soluções inovadoras!
